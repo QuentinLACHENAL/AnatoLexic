@@ -103,6 +103,5 @@ Contact
 Quentin LACHENAL
 
 GitHub: QuentinLACHENAL
-Email: lachenal57@gmail.com
 
 Developed with passion for improving anatomy education through technology.
